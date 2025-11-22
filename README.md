@@ -36,7 +36,7 @@
 
 🧮 Inputs Required in UI
 
-Users need to enter the following features:
+- Users need to enter the following features:
 - crim, zn, indus, chas, nox, rm, age, dis, rad, tax, ptratio, b, lstat
 
 🎯 Output
